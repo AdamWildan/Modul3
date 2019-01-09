@@ -13,4 +13,5 @@
 ![alt text](https://github.com/AdamWildan/Modul3/blob/master/m3.6.PNG)
 * TugasM3.php <br>
 ![alt text](https://github.com/AdamWildan/Modul3/blob/master/m3.tugas.PNG)
+* Hasil <br>
 ![alt text](https://github.com/AdamWildan/Modul3/blob/master/m3.tugas2.PNG)
